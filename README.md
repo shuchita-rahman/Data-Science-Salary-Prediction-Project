@@ -37,3 +37,14 @@ Second, I tried three different models:
 * **Random Forest :** MAE - 18.69
 * **Lasso Regression :** MAE 24.20
 * **Multiple Linear Regression:** 122.02
+
+# Resources 
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, pickle  
+**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
+**Article:**
+   * https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+   * https://towardsdatascience.com/understanding-the-ols-method-for-simple-linear-regression-e0a4e8f692cc
+   * https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
+   
+**Guide:** https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
