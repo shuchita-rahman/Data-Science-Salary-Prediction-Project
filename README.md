@@ -3,7 +3,7 @@
 * Engineered features from the text of each job description to quantify the value companies put on bachelors'degree, python, excel, aws, statistics and spark.
 * Optimized Linear, Lasso and Random Forest Regressors using GridsearchCV to reach the best model.
 * Created a tool that predict data science salaries worldwide.
-# Data Cleaning
+# [Data Cleaning](https://github.com/shuchita-rahman/DataScience_Salary_Project/tree/main/Data%20Cleaning)
 * Created new columns minimum, maximum and average salary for a specific job.
 * Created new columns for employer-provided salary and hourly wages.
 * Removed row without salary information.
@@ -21,13 +21,13 @@
    * SQL
 * Created a new column for description length.
 * Removed unnecessary columns.
-# Exploratory Data Analysis
+# [Exploratory Data Analysis](https://github.com/shuchita-rahman/DataScience_Salary_Project/tree/main/Exploratory%20Data%20Analysis)
 I tried analysis the distribution of categorical and numerical values. I also tried to find out the correlation between salaries and other variables.
 
 ![alt text](image/AverageSalaryHistogram.PNG) ![alt text](image/sectorsBarChart.PNG) 
 ![alt text](image/stateBarChart.PNG) ![alt text](image/correlation.PNG)
 
-# Model Building
+# [Model Building](https://github.com/shuchita-rahman/DataScience_Salary_Project/tree/main/Data%20Modeling)
 First, I transformed catagorical variable to dummies.
 Second, I tried three different models:
 * Multiple Linear Regression.
