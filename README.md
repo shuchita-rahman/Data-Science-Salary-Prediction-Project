@@ -1,4 +1,4 @@
-# DataScience_Salary_Project : Overview
+# Data-Science-Salary-Prediction-Project : Overview
 * Collected 1000 Data Science job description of glassdoor which is scrapped using selenium.
 * Engineered features from the text of each job description to quantify the value companies put on a bachelor's degree, python, excel, aws, statistics and spark.
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
